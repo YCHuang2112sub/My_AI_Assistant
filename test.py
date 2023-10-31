@@ -20,3 +20,7 @@ def test():
 # Call the method
 p.method()
 print("Hello World")
+
+# Get the attribute
+print(p.attribute)
+
