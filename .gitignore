@@ -1,0 +1,4 @@
+test*.ipynb
+silero-models/*
+.vscode/*
+.ipynb_checkpoints/*
