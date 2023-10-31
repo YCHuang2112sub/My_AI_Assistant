@@ -24,3 +24,9 @@ print("Hello World")
 # Get the attribute
 print(p.attribute)
 
+# Set the attribute
+p.attribute = "new value"
+
+# Get the attribute
+print(p.attribute)
+
