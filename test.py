@@ -19,3 +19,4 @@ def test():
 
 # Call the method
 p.method()
+print("Hello World")
